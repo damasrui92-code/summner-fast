@@ -1,0 +1,18 @@
+lib/
+│
+├── main.dart
+├── app.dart
+│
+├── core/
+│   ├── theme/
+│   │   ├── app_colors.dart
+│   │   └── app_theme.dart
+│   └── constants/
+│
+├── screens/
+│   └── home/
+│       └── home_screen.dart
+│
+├── widgets/
+│   ├── dashboard_card.dart
+│   └── quick_button.dart
