@@ -1,0 +1,24 @@
+summer-fast/
+
+android/
+ios/
+lib/
+
+  core/
+  database/
+  models/
+  services/
+  screens/
+  widgets/
+  scanner/
+  ai/
+  reports/
+  optimizer/
+
+assets/
+
+images/
+icons/
+
+README.md
+pubspec.yaml
